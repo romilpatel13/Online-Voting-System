@@ -1,6 +1,6 @@
 # Online Voting System #
 
-I have used JSP and servlets with validations to develop Online voting system as a part of my 2nd-sem project.
+I have used JSP and servlets with validations to develop Online Voting System as a part of my 2nd-sem project.
 
 As a backend I have used H2 database, which is fully developed in java and is very light weight database.
 
